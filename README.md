@@ -1,3 +1,14 @@
+# Video Link
+
+To run the app locally fork/clone this repo and follow the steps below
+
+- To download the video [click me](https://coverr.co/videos/swan-caught-on-lake-at-sunset-ZIkliEfPYW)
+- After downloading import it and put the video inside the folder `/src/assets`
+- In the terminal write `npm install`
+- Lastly to run the app `npm start`
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
